@@ -1,6 +1,7 @@
 {
   "owner": {
-    "username": "josephclintonsahaya-byte"
+    "username": "josephclintonsahaya-byte",
+    "email": "josephclintonsahaya@gmail.com"
   },
   "records": {
     "CNAME": "joseph-portfolio-tan.vercel.app"
